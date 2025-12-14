@@ -10,10 +10,12 @@
     "lint": "tsc --noEmit && eslint src/ --ext .ts,.tsx --quiet",
     "test": "jest --passWithNoTests",
     "release": "im-package-cli widget release",
-    "changelog":"im-package-cli widget release --dry-run"
+    "changelog": "im-package-cli widget release --dry-run"
   },
   "dependencies": {
     "@infomaximum/widget-sdk": "5.33.1",
+    "mobx": "^6.15.0",
+    "mobx-react-lite": "^4.1.1",
     "react": "18.3.1",
     "react-dom": "18.3.1"
   },
