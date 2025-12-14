@@ -1,0 +1,30 @@
+{
+  "$schema": "../node_modules/@infomaximum/package-cli/schemas/packageManifestSchema.json",
+  "manifest_version": "2",
+  "min_version_platform": "1.0.0.x",
+  "author": "Vlad Balashov",
+  "guid": "0d4780ba-255c-42c4-82c8-1ee30ecf404b",
+  "type": "widget",
+  "name": "No-title",
+  "systems": [
+    {
+      "name": "Widget"
+    }
+  ],
+  "description": {
+    "ru": "Test",
+    "en": "Test"
+  },
+  "categories": {
+    "ru": [
+      {
+        "name": "Сторонние"
+      }
+    ],
+    "en": [
+      {
+        "name": "Other"
+      }
+    ]
+  }
+}

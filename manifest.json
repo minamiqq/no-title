@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/@infomaximum/package-cli/schemas/widgetManifestSchema.json",
+  "uuid": "ef3729b5-dba2-4607-9368-0c052bbcc563",
+  "api_version": 1,
+  "name": {
+    "en": "No title",
+    "ru": "No title"
+  },
+  "is_beta": false,
+  "default_size": {
+    "min_width": 120,
+    "min_height": 120
+  }
+}

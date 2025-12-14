@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/@infomaximum/package-cli/schemas/widgetConfigSchema.json",
+  "entry": "src/index.tsx",
+  "widgetManifest": "manifest.json",
+  "packageDir": "package",
+  "packageManifest": "package/manifest.json",
+  "assetsDir": "_resources",
+  "buildDir": "build",
+  "port": 5555,
+  "host": "localhost"
+}
